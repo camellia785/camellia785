@@ -4,6 +4,8 @@
 
 <h3 align="center">🚀 About Me 🚀</h3>
 
+---
+
 <div align="left">
 
 🌍 Passionate about **AI-driven SCM Optimization & Data Engineering**  
@@ -21,6 +23,7 @@
 
 <h3 align="center">🦾 Tech Stack 🦾</h3>
 
+---
 
 
 <div align="center">
@@ -54,7 +57,7 @@
 
 <br>
 
----
+
 
 <h3 align="center"> 🔗 Tools 🔗</h3>
 
@@ -70,7 +73,7 @@
 
 <br>
 
----
+
 
 <h3 align="center"> 📭  Contact 📭 </h3>
 
