@@ -1,15 +1,16 @@
 <h1 align="center">👋 Hi, I'm Yeona Choi!</h1>
 
----
+
 
 <h3 align="center">🚀 About Me 🚀</h3>
 
-<div align="center">
+<div align="left">
 
 🌍 Passionate about **AI-driven SCM Optimization & Data Engineering**  
 🎯 **Goal:** Become an AI-based SCM Data Engineer & Global SCM Innovator  
 🎓 **Education:** Student at **Dongguk University** | Studying **Industrial Systems Engineering, Data Science Software**  
 💼 **Internship Experience:** Ericsson-LG (SW Developer)  
+
 
 </div>
 
