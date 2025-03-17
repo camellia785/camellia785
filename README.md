@@ -15,7 +15,7 @@
 ### 🤖 AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white&borderRadius=10) 
 ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white&borderRadius=10) 
-[![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5.svg?&style=for-the-badge&logo=pytorch-lightning&logoColor=white&borderRadius=10)](https://lightning.ai/)  
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5.svg?&style=for-the-badge&logo=pytorch-lightning&logoColor=white&borderRadius=10)
 
 ### 🌐 Frontend Development
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&borderRadius=10) 
@@ -23,8 +23,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white&borderRadius=10) 
 
 ### 🛠 Backend & Databases
-[![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white&borderRadius=10)](https://nodejs.org/)  
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white&borderRadius=10)](https://www.mongodb.com/)  
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white&borderRadius=10) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white&borderRadius=10) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white&borderRadius=10) 
 
 ### ⚙️ Others
@@ -41,10 +41,8 @@
 
 <div align="center">
 
-[![Velog](https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white&borderRadius=10)](여기에_블로그_링크_넣기)  
-[![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white&borderRadius=10)](여기에_노션_포트폴리오_링크_넣기)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white&borderRadius=10)](https://github.com/여기에_깃허브_아이디)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=10)](https://www.linkedin.com/in/yeona785/)  
+![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white&borderRadius=10) 
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white&borderRadius=10)  
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white&borderRadius=10)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white&borderRadius=10)  
 ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white&borderRadius=10)  
