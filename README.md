@@ -1,6 +1,8 @@
 
 <div align="center">
-🦾 Tech Stack 🦾
+**🦾 Tech Stack 🦾**
+
+
 
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white&borderRadius=10) 
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&borderRadius=10) 
@@ -18,7 +20,9 @@
 
 
 <div align="center">
-🛠️ Tools 🛠️
+**🛠️ Tools 🛠️**
+
+
 
 ![Gmail](https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white&borderRadius=10) 
 ![Velog](https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white&borderRadius=10) 
