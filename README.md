@@ -11,6 +11,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white&borderRadius=10) 
 ![Plotly](https://img.shields.io/badge/plotly-3F4F75.svg?&style=for-the-badge&logo=plotly&logoColor=white&borderRadius=10) 
 ![Scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white&borderRadius=10) 
+![Selenium](https://img.shields.io/badge/selenium-43B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white&borderRadius=10) 
 
 ### 🤖 AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white&borderRadius=10) 
@@ -23,13 +24,10 @@
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white&borderRadius=10) 
 
 ### 🛠 Backend & Databases
+![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white&borderRadius=10) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white&borderRadius=10) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white&borderRadius=10) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white&borderRadius=10) 
-
-### ⚙️ Others
-![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white&borderRadius=10) 
-![Selenium](https://img.shields.io/badge/selenium-43B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white&borderRadius=10) 
 
 </div>
 
