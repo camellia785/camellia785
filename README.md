@@ -1,3 +1,5 @@
+---
+
 <h3 align="center">🦾 Tech Stack 🦾</h3>
 
 ---
@@ -41,9 +43,7 @@
 
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white&borderRadius=10) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white&borderRadius=10)  
-![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white&borderRadius=10)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white&borderRadius=10)  
-![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white&borderRadius=10)  
+![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white&borderRadius=10)  ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white&borderRadius=10)  ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white&borderRadius=10)  
 
 </div>
 
@@ -55,7 +55,6 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white&borderRadius=10)](mailto:choiyuna759@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=10)](https://www.linkedin.com/in/yeona785/)  
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white&borderRadius=10)](mailto:choiyuna759@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=10)](https://www.linkedin.com/in/yeona785/)  
 
 </div>
