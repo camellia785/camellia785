@@ -1,7 +1,7 @@
 
-<div align="center">
-**🦾 Tech Stack 🦾**
+<h3 align="center">🦾 Tech Stack 🦾</h3>
 
+<div align="center">
 
 
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white&borderRadius=10) 
@@ -18,13 +18,10 @@
 </div>
 
 
-
+<h3 align="center">🛠️ Tools 🛠️</h3>
 <div align="center">
-**🛠️ Tools 🛠️**
 
 
-
-![Gmail](https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white&borderRadius=10) 
 ![Velog](https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white&borderRadius=10) 
 ![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=10) 
 ![Notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white&borderRadius=10) 
@@ -34,3 +31,5 @@
 ![Discord](https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white&borderRadius=10) 
 
 </div>
+
+
