@@ -37,7 +37,7 @@
 
 ---
 
-<h3 align="center">🛠️ Tools 🛠️</h3>
+<h3 align="center"> 🔗 Tools 🔗</h3>
 
 ---
 
@@ -53,7 +53,7 @@
 
 ---
 
-<h3 align="center">📍 Contact 📍</h3>
+<h3 align="center"> 📭  Contact 📭 </h3>
 
 ---
 
