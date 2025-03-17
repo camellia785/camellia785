@@ -33,6 +33,8 @@
 
 </div>
 
+<br>
+
 ---
 
 <h3 align="center">🛠️ Tools 🛠️</h3>
@@ -46,6 +48,8 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white&borderRadius=10)  ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white&borderRadius=10)  ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white&borderRadius=10)  
 
 </div>
+
+<br>
 
 ---
 
