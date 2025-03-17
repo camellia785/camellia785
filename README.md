@@ -17,15 +17,15 @@
 <br>
 
 
----
+
 
 <h3 align="center">🦾 Tech Stack 🦾</h3>
 
----
+
 
 <div align="center">
 
-#### 📊 Data Science & Analysis
+### 📊 Data Science & Analysis
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white&borderRadius=10) 
 ![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white&borderRadius=10) 
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white&borderRadius=10) 
