@@ -11,7 +11,7 @@
 🌍 Passionate about **Data Engineering & AI-driven SCM Optimization**  
 🎯 **Goal:** Become an AI-based SCM Data Engineer & Global SCM Innovator  
 🎓 **Education:** Student at **Dongguk University** | Studying **Industrial Systems Engineering, Data Science Software**  
-💼 **Internship Experience:** Ericsson-LG (SW Developer)  
+💼 **Internship Experience:** Ericsson-LG (SW Developer) 2024.07-2024.08
 
 
 </div>
